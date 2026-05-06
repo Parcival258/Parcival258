@@ -1,42 +1,88 @@
-<h2 align="left">Hi, my name is Andres Lasso</h2>
+<h1 align="left">Hey 👋 I'm Andres Lasso</h1>
+
+<p align="left">
+Frontend Developer from Colombia <br>
+Focused on React, TypeScript and modern UI experiences.
+</p>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Parcival258&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="154" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Parcival258&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=activity" height="154" alt="stats graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parcival258&layout=compact&theme=dracula&hide_border=true&langs_count=8"
+    height="160"
+    alt="languages graph"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Parcival258&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true"
+    height="160"
+    alt="stats graph"
+  />
 </div>
+
+###
+
+## 🚀 Core Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,php,mysql" />
+</p>
+
+###
+
+## 🧠 About Me
+
+- ⚡ Frontend developer focused on clean UI and interactive experiences
+- 🚀 Building modern web applications with React & TypeScript
+- 🧠 Learning scalable architectures and AI integrations
+- 🎯 Interested in product design and developer experience
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <a href="mailto:andreslasso250@gmail.com" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+      height="35"
+      alt="gmail logo"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/andres-lasso-ojeda-987710204/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="35"
+      alt="linkedin logo"
+    />
+  </a>
+
+  <a href="https://andreslasso-cv.netlify.app/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge"
+      height="35"
+      alt="portfolio logo"
+    />
+  </a>
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
+<img
+  align="right"
+  height="180"
+  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
+/>
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif"  />
+> "I like building interfaces that feel fast, intuitive and alive."
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Parcival258/Parcival258/output/snake.svg" alt="Snake animation" />
-
-###
+<img
+  src="https://raw.githubusercontent.com/Parcival258/Parcival258/output/snake.svg"
+  alt="Snake animation"
+/>
