@@ -8,9 +8,11 @@ Focused on React, TypeScript and modern UI experiences.
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Parcival258&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="154" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parcival258&theme=dracula" height="160" alt="languages graph" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Parcival258&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=activity" height="154" alt="stats graph" />
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parcival258&theme=dracula" height="160" alt="stats graph" />
 </div>
 
 ###
@@ -34,37 +36,21 @@ Focused on React, TypeScript and modern UI experiences.
 
 <div align="left">
   <a href="mailto:andreslasso250@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
-      height="35"
-      alt="gmail logo"
-    />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 
   <a href="https://www.linkedin.com/in/andres-lasso-ojeda-987710204/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-      height="35"
-      alt="linkedin logo"
-    />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
   <a href="https://andreslasso-cv.netlify.app/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge"
-      height="35"
-      alt="portfolio logo"
-    />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 </div>
 
 ###
 
-<img
-  align="right"
-  height="180"
-  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
-/>
+<img align="right" height="180" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 ###
 
@@ -74,7 +60,4 @@ Focused on React, TypeScript and modern UI experiences.
 
 <br clear="both">
 
-<img
-  src="https://raw.githubusercontent.com/Parcival258/Parcival258/output/snake.svg"
-  alt="Snake animation"
-/>
+<img src="https://raw.githubusercontent.com/Parcival258/Parcival258/output/snake.svg" alt="Snake animation" />
