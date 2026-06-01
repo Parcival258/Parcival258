@@ -5,8 +5,6 @@ Frontend Developer from Colombia <br>
 Focused on React, TypeScript and modern UI experiences.
 </p>
 
-###
-
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parcival258&theme=dracula" height="160" alt="languages graph" />
 </div>
@@ -15,24 +13,17 @@ Focused on React, TypeScript and modern UI experiences.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parcival258&theme=dracula" height="160" alt="stats graph" />
 </div>
 
-###
-
-## 🚀 Core Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,php,mysql" />
 </p>
 
-###
-
-## 🧠 About Me
 
 - ⚡ Frontend developer focused on clean UI and interactive experiences
 - 🚀 Building modern web applications with React & TypeScript
 - 🧠 Learning scalable architectures and AI integrations
 - 🎯 Interested in product design and developer experience
 
-###
 
 <div align="left">
   <a href="mailto:andreslasso250@gmail.com" target="_blank">
@@ -48,15 +39,12 @@ Focused on React, TypeScript and modern UI experiences.
   </a>
 </div>
 
-###
 
 <img align="right" height="180" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
-###
 
 > "I like building interfaces that feel fast, intuitive and alive."
 
-###
 
 <br clear="both">
 
