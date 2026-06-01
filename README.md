@@ -6,45 +6,52 @@ Focused on React, TypeScript and modern UI experiences.
 </p>
 
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parcival258&theme=dracula" height="160" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parcival258&theme=dracula" width="100%" alt="profile details" />
 </div>
+
+<br>
 
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parcival258&theme=dracula" height="160" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parcival258&theme=dracula" width="49%" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parcival258&theme=dracula" width="49%" alt="most commit language" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parcival258&theme=dracula" width="60%" alt="stats graph" />
+</div>
+
+<br>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,php,mysql" />
 </p>
-
 
 - ⚡ Frontend developer focused on clean UI and interactive experiences
 - 🚀 Building modern web applications with React & TypeScript
 - 🧠 Learning scalable architectures and AI integrations
 - 🎯 Interested in product design and developer experience
 
-
 <div align="left">
   <a href="mailto:andreslasso250@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 
   <a href="https://www.linkedin.com/in/andres-lasso-ojeda-987710204/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
   <a href="https://andreslasso-cv.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=24292F&logoColor=white&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 </div>
 
+<br>
 
-<img align="right" height="180" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
-
+<img align="right" height="180" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding gif" />
 
 > "I like building interfaces that feel fast, intuitive and alive."
-
 
 <br clear="both">
 
